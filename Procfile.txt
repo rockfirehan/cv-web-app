@@ -1,1 +1,1 @@
-web: gunicorn cv_han:app
+web: gunicorn cv-han:app
